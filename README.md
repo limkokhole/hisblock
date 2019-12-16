@@ -76,6 +76,8 @@ $ go get github.com/prasmussen/gdrive
 $ cd ~/.go/src/github.com/prasmussen/gdrive/
 $ go install #executable gdrive created in $GOPATH/bin
 
+[2: UPDATE] You should create your own app and modify handlers_drive.go file, See my answer at https://stackoverflow.com/a/59353414/1074998
+
 [2] Run gdrive
 $ gdrive list #setup oauth first
 Authentication needed
